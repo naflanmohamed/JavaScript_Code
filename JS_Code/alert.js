@@ -1,1 +1,1 @@
-alert("Warning! This is a test alert!");
+alert("Warning! This is a test alert JS!");
